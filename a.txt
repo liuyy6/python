@@ -1,0 +1,8 @@
+filterInputfilterInput预期结果（data[0]）
+0.0北京北京
+0.0北京学校快查
+1.0北京list
+0.0北京list
+1.0北京学校快
+1.0北京美国
+0.0北京日本
